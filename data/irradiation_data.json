@@ -1,5 +1,38 @@
 {
   "plant": "Mountain View Shopping Centre (Gordons Bay)",
-  "daily_records": {},
-  "last_updated": ""
+  "daily_records": {
+    "2026-04-21": {
+      "hourly_wm2": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        71.0,
+        254.0,
+        429.0,
+        562.0,
+        640.0,
+        653.0,
+        577.0,
+        411.0,
+        271.0,
+        149.0,
+        16.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "peak_wm2": 653.0,
+      "daily_total_wh_m2": 4034.0,
+      "daily_total_kwh_m2": 4.034,
+      "sun_hours": 11
+    }
+  },
+  "last_updated": "2026-04-21 15:31:03"
 }
