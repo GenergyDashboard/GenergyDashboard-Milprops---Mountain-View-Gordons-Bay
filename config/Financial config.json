@@ -1,0 +1,251 @@
+{
+  "_comment": "Mountain View (Gordons Bay) uses Eskom Megaflex TIME-OF-USE tariff. High-demand season = Jun/Jul/Aug; Low-demand = rest of year. Rate year runs April - March. Active rates in 'rates' reflect the CURRENT fiscal year - update these each April 1st from the schedule in '_historical_rates'.",
+  "rates": {
+    "low_demand": {
+      "peak": 3.1602,
+      "standard": 1.7767,
+      "off_peak": 1.2691
+    },
+    "high_demand": {
+      "peak": 7.6146,
+      "standard": 1.9036,
+      "off_peak": 1.2691
+    }
+  },
+  "seasons": {
+    "1": "low_demand",
+    "2": "low_demand",
+    "3": "low_demand",
+    "4": "low_demand",
+    "5": "low_demand",
+    "6": "high_demand",
+    "7": "high_demand",
+    "8": "high_demand",
+    "9": "low_demand",
+    "10": "low_demand",
+    "11": "low_demand",
+    "12": "low_demand"
+  },
+  "tou_schedule": {
+    "low_demand": {
+      "weekday": [
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "standard",
+        "peak",
+        "peak",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "peak",
+        "peak",
+        "peak",
+        "standard",
+        "off_peak",
+        "off_peak"
+      ],
+      "saturday": [
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "standard",
+        "standard",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak"
+      ],
+      "sunday": [
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "standard",
+        "standard",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak"
+      ]
+    },
+    "high_demand": {
+      "weekday": [
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "peak",
+        "peak",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "peak",
+        "peak",
+        "peak",
+        "standard",
+        "standard",
+        "off_peak",
+        "off_peak"
+      ],
+      "saturday": [
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "standard",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "standard",
+        "standard",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak"
+      ],
+      "sunday": [
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "standard",
+        "standard",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak",
+        "off_peak"
+      ]
+    }
+  },
+  "export_credits": {
+    "standard": 0,
+    "off_peak": 0,
+    "_comment": "No feed-in tariff configured. If a net-metering agreement exists, set the credit rate (R/kWh) per period."
+  },
+  "_historical_rates": {
+    "_note": "Historical year rate schedules for Mountain View (Gordons Bay). South African Eskom Megaflex tariff year runs April - March. The 'rates' block above is the CURRENT active schedule used by the dashboard and processor. When the tariff changes each April, copy the new year's rates into 'rates'. These are kept here for reference and for historical cost re-analysis.",
+    "2023_24": {
+      "period": "Apr 2023 - Mar 2024",
+      "low_demand": {
+        "peak": 1.8212,
+        "standard": 1.2532,
+        "off_peak": 0.7953
+      },
+      "high_demand": {
+        "peak": 5.5822,
+        "standard": 1.6917,
+        "off_peak": 0.9181
+      }
+    },
+    "2024_25": {
+      "period": "Apr 2024 - Mar 2025",
+      "low_demand": {
+        "peak": 2.0532,
+        "standard": 1.4129,
+        "off_peak": 0.8966
+      },
+      "high_demand": {
+        "peak": 6.2934,
+        "standard": 1.9072,
+        "off_peak": 1.0351
+      }
+    },
+    "2025_26": {
+      "period": "Apr 2025 - Mar 2026",
+      "low_demand": {
+        "peak": 2.9264,
+        "standard": 1.6453,
+        "off_peak": 1.1752
+      },
+      "high_demand": {
+        "peak": 7.0513,
+        "standard": 1.7628,
+        "off_peak": 1.1752
+      }
+    },
+    "2026_27": {
+      "period": "Apr 2026 - Mar 2027 (ACTIVE)",
+      "low_demand": {
+        "peak": 3.1602,
+        "standard": 1.7767,
+        "off_peak": 1.2691
+      },
+      "high_demand": {
+        "peak": 7.6146,
+        "standard": 1.9036,
+        "off_peak": 1.2691
+      }
+    }
+  }
+}
