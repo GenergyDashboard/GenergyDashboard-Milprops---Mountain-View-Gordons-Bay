@@ -179,20 +179,20 @@
         0.0,
         1.0,
         0.0,
-        5.0,
-        79.0,
-        43.0,
+        0.0,
+        0.0,
+        12.0,
         0.0,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "peak_wm2": 79.0,
-      "daily_total_wh_m2": 130.0,
-      "daily_total_kwh_m2": 0.13,
-      "sun_hours": 2
+      "peak_wm2": 12.0,
+      "daily_total_wh_m2": 15.0,
+      "daily_total_kwh_m2": 0.015,
+      "sun_hours": 1
     }
   },
-  "last_updated": "2026-04-26 19:44:45"
+  "last_updated": "2026-04-26 21:03:37"
 }
