@@ -655,7 +655,7 @@
         0.0,
         0.0,
         0.0,
-        1.0,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -668,11 +668,11 @@
         0.0,
         0.0
       ],
-      "peak_wm2": 1.0,
-      "daily_total_wh_m2": 1.0,
-      "daily_total_kwh_m2": 0.001,
+      "peak_wm2": 0.0,
+      "daily_total_wh_m2": 0.0,
+      "daily_total_kwh_m2": 0.0,
       "sun_hours": 0
     }
   },
-  "last_updated": "2026-05-11 06:08:40"
+  "last_updated": "2026-05-11 10:28:15"
 }
