@@ -8244,12 +8244,12 @@
     }
   },
   "2026-05-23": {
-    "current_hour": 4,
-    "pv": 0.0,
-    "import": 556.8,
+    "current_hour": 7,
+    "pv": 1.37,
+    "import": 1121.79,
     "export": 0.0,
-    "self_consumption": 0,
-    "consumption": 556.8,
+    "self_consumption": 1.37,
+    "consumption": 1123.16,
     "hourly": {
       "pv": [
         0.0,
@@ -8259,7 +8259,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        1.37,
         0.0,
         0.0,
         0.0,
@@ -8283,9 +8283,9 @@
         113.92,
         113.41,
         111.36,
-        0.0,
-        0.0,
-        0.0,
+        163.58,
+        189.7,
+        213.08,
         0.0,
         0.0,
         0.0,
@@ -8309,9 +8309,9 @@
         113.92,
         113.41,
         111.36,
-        0.0,
-        0.0,
-        0.0,
+        163.58,
+        189.7,
+        211.71,
         0.0,
         0.0,
         0.0,
@@ -8367,20 +8367,20 @@
         "export_savings": 0
       },
       "standard": {
-        "generation": 0.0,
-        "import": 0.0,
-        "self_consumption": 0,
+        "generation": 1.37,
+        "import": 211.71,
+        "self_consumption": 1.37,
         "export": 0.0,
-        "utility_cost": 0.0,
-        "pv_savings": 0.0,
+        "utility_cost": 376.15,
+        "pv_savings": 2.43,
         "export_savings": 0.0
       },
       "off_peak": {
         "generation": 0.0,
-        "import": 556.8,
+        "import": 910.08,
         "self_consumption": 0,
         "export": 0.0,
-        "utility_cost": 706.63,
+        "utility_cost": 1154.98,
         "pv_savings": 0.0,
         "export_savings": 0.0
       }
@@ -8388,16 +8388,16 @@
     "savings": {
       "pv_savings": {
         "peak": 0.0,
-        "standard": 0.0,
-        "off_peak": 0.0,
-        "total": 0.0
+        "standard": 0.87,
+        "off_peak": 1.12,
+        "total": 1.99
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 0.0
+      "total": 1.99
     }
   }
 }
