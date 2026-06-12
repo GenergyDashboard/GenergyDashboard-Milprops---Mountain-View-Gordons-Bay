@@ -11384,12 +11384,12 @@
     }
   },
   "2026-06-12": {
-    "current_hour": 4,
-    "pv": 0.0,
-    "import": 605.69,
+    "current_hour": 9,
+    "pv": 91.75,
+    "import": 1636.86,
     "export": 0.0,
-    "self_consumption": 0,
-    "consumption": 605.69,
+    "self_consumption": 91.75,
+    "consumption": 1728.61,
     "hourly": {
       "pv": [
         0.0,
@@ -11399,9 +11399,9 @@
         0.0,
         0.0,
         0.0,
-        0.0,
-        0.0,
-        0.0,
+        0.19,
+        5.42,
+        86.14,
         0.0,
         0.0,
         0.0,
@@ -11423,11 +11423,11 @@
         123.14,
         122.88,
         123.64,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
+        167.68,
+        194.05,
+        221.63,
+        265.01,
+        274.55,
         0.0,
         0.0,
         0.0,
@@ -11449,11 +11449,11 @@
         123.14,
         122.88,
         123.64,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
+        167.68,
+        194.05,
+        221.44,
+        259.59,
+        188.41,
         0.0,
         0.0,
         0.0,
@@ -11498,46 +11498,46 @@
     },
     "tou_breakdown": {
       "peak": {
-        "generation": 0.0,
-        "import": 0.0,
-        "self_consumption": 0,
+        "generation": 0.19,
+        "import": 415.49,
+        "self_consumption": 0.19,
         "export": 0.0,
-        "utility_cost": 0.0,
-        "pv_savings": 0.0,
+        "utility_cost": 3163.79,
+        "pv_savings": 1.45,
         "export_savings": 0.0
       },
       "standard": {
-        "generation": 0.0,
-        "import": 0.0,
-        "self_consumption": 0,
+        "generation": 91.56,
+        "import": 448.0,
+        "self_consumption": 91.56,
         "export": 0.0,
-        "utility_cost": 0.0,
-        "pv_savings": 0.0,
+        "utility_cost": 852.81,
+        "pv_savings": 174.29,
         "export_savings": 0.0
       },
       "off_peak": {
         "generation": 0.0,
-        "import": 605.69,
+        "import": 773.37,
         "self_consumption": 0,
         "export": 0.0,
-        "utility_cost": 768.68,
+        "utility_cost": 981.48,
         "pv_savings": 0.0,
         "export_savings": 0.0
       }
     },
     "savings": {
       "pv_savings": {
-        "peak": 0.0,
-        "standard": 0.0,
+        "peak": 0.1,
+        "standard": 174.63,
         "off_peak": 0.0,
-        "total": 0.0
+        "total": 174.73
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 0.0
+      "total": 174.73
     }
   }
 }
