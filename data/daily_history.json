@@ -14838,12 +14838,12 @@
     }
   },
   "2026-07-04": {
-    "current_hour": 17,
-    "pv": 1495.92,
-    "import": 2240.26,
+    "current_hour": 19,
+    "pv": 1495.93,
+    "import": 2593.28,
     "export": 5.2,
-    "self_consumption": 1490.72,
-    "consumption": 3730.98,
+    "self_consumption": 1490.73,
+    "consumption": 4084.01,
     "hourly": {
       "pv": [
         0.0,
@@ -14864,7 +14864,7 @@
         168.67,
         90.75,
         18.51,
-        0.0,
+        0.01,
         0.0,
         0.0,
         0.0,
@@ -14890,8 +14890,8 @@
         241.12,
         243.83,
         208.47,
-        0.0,
-        0.0,
+        188.68,
+        164.35,
         0.0,
         0.0,
         0.0,
@@ -14916,8 +14916,8 @@
         72.45,
         153.08,
         189.96,
-        0.0,
-        0.0,
+        188.67,
+        164.35,
         0.0,
         0.0,
         0.0,
@@ -14961,20 +14961,20 @@
         "export_savings": 0
       },
       "standard": {
-        "generation": 533.58,
-        "import": 971.78,
-        "self_consumption": 533.58,
+        "generation": 533.59,
+        "import": 1160.45,
+        "self_consumption": 533.59,
         "export": 0.0,
-        "utility_cost": 1849.88,
-        "pv_savings": 1015.72,
+        "utility_cost": 2209.03,
+        "pv_savings": 1015.74,
         "export_savings": 0.0
       },
       "off_peak": {
         "generation": 962.34,
-        "import": 1268.48,
+        "import": 1432.83,
         "self_consumption": 957.14,
         "export": 5.2,
-        "utility_cost": 1609.83,
+        "utility_cost": 1818.4,
         "pv_savings": 1214.71,
         "export_savings": 0.0
       }
@@ -14983,15 +14983,15 @@
       "pv_savings": {
         "peak": 0.0,
         "standard": 1069.49,
-        "off_peak": 1178.86,
-        "total": 2248.35
+        "off_peak": 1178.87,
+        "total": 2248.36
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 2248.35
+      "total": 2248.36
     }
   }
 }
