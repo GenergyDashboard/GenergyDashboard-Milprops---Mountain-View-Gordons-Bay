@@ -14838,12 +14838,12 @@
     }
   },
   "2026-07-04": {
-    "current_hour": 4,
-    "pv": 0.0,
-    "import": 563.71,
+    "current_hour": 7,
+    "pv": 0.2,
+    "import": 1110.27,
     "export": 0.0,
-    "self_consumption": 0,
-    "consumption": 563.71,
+    "self_consumption": 0.2,
+    "consumption": 1110.47,
     "hourly": {
       "pv": [
         0.0,
@@ -14853,7 +14853,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        0.2,
         0.0,
         0.0,
         0.0,
@@ -14877,9 +14877,9 @@
         113.92,
         113.41,
         114.43,
-        0.0,
-        0.0,
-        0.0,
+        153.35,
+        188.67,
+        204.74,
         0.0,
         0.0,
         0.0,
@@ -14903,9 +14903,9 @@
         113.92,
         113.41,
         114.43,
-        0.0,
-        0.0,
-        0.0,
+        153.35,
+        188.67,
+        204.54,
         0.0,
         0.0,
         0.0,
@@ -14961,20 +14961,20 @@
         "export_savings": 0
       },
       "standard": {
-        "generation": 0.0,
-        "import": 0.0,
-        "self_consumption": 0,
+        "generation": 0.2,
+        "import": 204.54,
+        "self_consumption": 0.2,
         "export": 0.0,
-        "utility_cost": 0.0,
-        "pv_savings": 0.0,
+        "utility_cost": 389.36,
+        "pv_savings": 0.38,
         "export_savings": 0.0
       },
       "off_peak": {
         "generation": 0.0,
-        "import": 563.71,
+        "import": 905.73,
         "self_consumption": 0,
         "export": 0.0,
-        "utility_cost": 715.4,
+        "utility_cost": 1149.46,
         "pv_savings": 0.0,
         "export_savings": 0.0
       }
@@ -14982,16 +14982,16 @@
     "savings": {
       "pv_savings": {
         "peak": 0.0,
-        "standard": 0.0,
-        "off_peak": 0.0,
-        "total": 0.0
+        "standard": 0.14,
+        "off_peak": 0.16,
+        "total": 0.3
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 0.0
+      "total": 0.3
     }
   }
 }
