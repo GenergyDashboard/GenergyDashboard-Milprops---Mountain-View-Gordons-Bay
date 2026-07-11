@@ -15937,12 +15937,12 @@
     }
   },
   "2026-07-11": {
-    "current_hour": 11,
-    "pv": 517.08,
-    "import": 1697.02,
-    "export": 0.0,
-    "self_consumption": 517.08,
-    "consumption": 2214.1,
+    "current_hour": 14,
+    "pv": 1239.12,
+    "import": 1830.91,
+    "export": 0.2,
+    "self_consumption": 1238.92,
+    "consumption": 3069.83,
     "hourly": {
       "pv": [
         0.0,
@@ -15957,9 +15957,9 @@
         94.98,
         172.69,
         226.62,
-        0.0,
-        0.0,
-        0.0,
+        250.43,
+        248.07,
+        223.54,
         0.0,
         0.0,
         0.0,
@@ -15983,9 +15983,9 @@
         269.83,
         266.89,
         283.2,
-        0.0,
-        0.0,
-        0.0,
+        283.0,
+        285.96,
+        286.77,
         0.0,
         0.0,
         0.0,
@@ -16009,9 +16009,9 @@
         174.85,
         94.2,
         56.58,
-        0.0,
-        0.0,
-        0.0,
+        32.77,
+        37.89,
+        63.23,
         0.0,
         0.0,
         0.0,
@@ -16035,7 +16035,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        0.2,
         0.0,
         0.0,
         0.0,
@@ -16069,28 +16069,28 @@
         "export_savings": 0.0
       },
       "off_peak": {
-        "generation": 0.0,
-        "import": 918.78,
-        "self_consumption": 0,
-        "export": 0.0,
-        "utility_cost": 1166.02,
-        "pv_savings": 0.0,
+        "generation": 722.04,
+        "import": 1052.67,
+        "self_consumption": 721.84,
+        "export": 0.2,
+        "utility_cost": 1335.94,
+        "pv_savings": 916.09,
         "export_savings": 0.0
       }
     },
     "savings": {
       "pv_savings": {
         "peak": 0.0,
-        "standard": 348.14,
-        "off_peak": 424.13,
-        "total": 772.27
+        "standard": 834.15,
+        "off_peak": 1016.2,
+        "total": 1850.35
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 772.27
+      "total": 1850.35
     }
   }
 }
