@@ -16879,12 +16879,12 @@
     }
   },
   "2026-07-17": {
-    "current_hour": 10,
-    "pv": 137.0,
-    "import": 1840.38,
-    "export": 0.0,
-    "self_consumption": 137.0,
-    "consumption": 1977.38,
+    "current_hour": 12,
+    "pv": 559.55,
+    "import": 1987.33,
+    "export": 0.8,
+    "self_consumption": 558.75,
+    "consumption": 2546.08,
     "hourly": {
       "pv": [
         0.0,
@@ -16898,8 +16898,8 @@
         7.18,
         36.65,
         93.12,
-        0.0,
-        0.0,
+        178.69,
+        243.86,
         0.0,
         0.0,
         0.0,
@@ -16924,8 +16924,8 @@
         268.04,
         271.4,
         289.73,
-        0.0,
-        0.0,
+        284.53,
+        284.17,
         0.0,
         0.0,
         0.0,
@@ -16950,8 +16950,8 @@
         260.86,
         234.75,
         196.61,
-        0.0,
-        0.0,
+        106.24,
+        40.71,
         0.0,
         0.0,
         0.0,
@@ -16976,8 +16976,8 @@
         0.0,
         0.0,
         0.0,
-        0.0,
-        0.0,
+        0.4,
+        0.4,
         0.0,
         0.0,
         0.0,
@@ -17002,12 +17002,12 @@
         "export_savings": 0.0
       },
       "standard": {
-        "generation": 136.95,
-        "import": 692.22,
-        "self_consumption": 136.95,
-        "export": 0.0,
-        "utility_cost": 1317.71,
-        "pv_savings": 260.7,
+        "generation": 559.5,
+        "import": 839.17,
+        "self_consumption": 558.7,
+        "export": 0.8,
+        "utility_cost": 1597.44,
+        "pv_savings": 1063.54,
         "export_savings": 0.0
       },
       "off_peak": {
@@ -17022,17 +17022,17 @@
     },
     "savings": {
       "pv_savings": {
-        "peak": 1.57,
-        "standard": 260.4,
+        "peak": 6.41,
+        "standard": 1062.03,
         "off_peak": 0.0,
-        "total": 261.97
+        "total": 1068.45
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 261.97
+      "total": 1068.45
     }
   }
 }
