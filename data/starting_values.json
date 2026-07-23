@@ -507,12 +507,12 @@
       "Self-consumption Rate (%)": 99.547
     },
     "2026-07": {
-      "PV Yield (kWh)": 26173.91,
-      "Inverter Yield (kWh)": 26173.91,
+      "PV Yield (kWh)": 26273.6,
+      "Inverter Yield (kWh)": 26273.6,
       "Export (kWh)": 57.0,
-      "Import (kWh)": 74304.48,
-      "Consumption (kWh)": 100421.39,
-      "Self-consumption (kWh)": 26116.91,
+      "Import (kWh)": 76500.96,
+      "Consumption (kWh)": 102717.56,
+      "Self-consumption (kWh)": 26216.6,
       "CO\u2082 Avoided (t)": 0.0,
       "Standard Coal Saved (t)": 0.0,
       "Revenue (R.)": 130.0,
@@ -522,7 +522,7 @@
       "Loss Due to Export Limitation (kWh)": 0.0,
       "Loss Due to Export Limitation(R.)": 0.0,
       "Peak Power (kW)": 0.0,
-      "Self-consumption Rate (%)": 99.782
+      "Self-consumption Rate (%)": 99.783
     }
   },
   "lifetime": {
@@ -563,12 +563,12 @@
       "Self-consumption Rate (%)": 96.491
     },
     "2026": {
-      "PV Yield (kWh)": 366363.64,
-      "Inverter Yield (kWh)": 366363.64,
+      "PV Yield (kWh)": 366463.33,
+      "Inverter Yield (kWh)": 366463.33,
       "Export (kWh)": 8437.2,
-      "Import (kWh)": 662855.64,
-      "Consumption (kWh)": 1020782.08,
-      "Self-consumption (kWh)": 357926.44,
+      "Import (kWh)": 665052.12,
+      "Consumption (kWh)": 1023078.25,
+      "Self-consumption (kWh)": 358026.13,
       "CO\u2082 Avoided (t)": 0.0,
       "Standard Coal Saved (t)": 0.0,
       "Revenue (R.)": 2519.05,
@@ -578,21 +578,21 @@
       "Loss Due to Export Limitation (kWh)": 0.0,
       "Loss Due to Export Limitation(R.)": 0.0,
       "Peak Power (kW)": 402.904,
-      "Self-consumption Rate (%)": 97.697
+      "Self-consumption Rate (%)": 97.698
     }
   },
-  "last_updated": "2026-07-22",
-  "last_run_date": "2026-07-22",
+  "last_updated": "2026-07-23",
+  "last_run_date": "2026-07-23",
   "last_daily": {
-    "PV Yield (kWh)": 977.6499999999999,
-    "Inverter Yield (kWh)": 977.6499999999999,
-    "Export (kWh)": 19.0,
-    "Import (kWh)": 3458.82,
-    "Consumption (kWh)": 4417.47,
-    "Self-consumption (kWh)": 958.65,
+    "PV Yield (kWh)": 99.69,
+    "Inverter Yield (kWh)": 99.69,
+    "Export (kWh)": 0.0,
+    "Import (kWh)": 2196.48,
+    "Consumption (kWh)": 2296.17,
+    "Self-consumption (kWh)": 99.69,
     "CO\u2082 Avoided (t)": 0.0,
     "Standard Coal Saved (t)": 0.0,
-    "Revenue (R.)": 43.31,
+    "Revenue (R.)": 0.0,
     "Charge (kWh)": 0.0,
     "Discharge (kWh)": 0.0,
     "Theoretical Yield (kWh)": 0.0,
@@ -601,24 +601,6 @@
   },
   "month_seeded": "",
   "yesterday": {
-    "Global Irradiation (kWh/\u33a1)": 0.0,
-    "Average Temperature(\u00b0C)": 0.0,
-    "Theoretical Yield (kWh)": 0.0,
-    "PV Yield (kWh)": 1588.0300000000002,
-    "Inverter Yield (kWh)": 1588.0300000000002,
-    "Export (kWh)": 3.2,
-    "Import (kWh)": 2953.7299999999996,
-    "Loss Due to Export Limitation (kWh)": 0.0,
-    "Loss Due to Export Limitation(R.)": 0.0,
-    "Charge (kWh)": 0.0,
-    "Discharge (kWh)": 0.0,
-    "Revenue (R.)": 7.3,
-    "Consumption (kWh)": 4538.56,
-    "Self-consumption (kWh)": 1584.83,
-    "Self-consumption Rate (%)": 99.8
-  },
-  "yesterday_date": "2026-07-21",
-  "previous_today": {
     "Global Irradiation (kWh/\u33a1)": 0.0,
     "Average Temperature(\u00b0C)": 0.0,
     "Theoretical Yield (kWh)": 0.0,
@@ -635,5 +617,23 @@
     "Self-consumption (kWh)": 958.65,
     "Self-consumption Rate (%)": 98.06
   },
-  "previous_today_date": "2026-07-22"
+  "yesterday_date": "2026-07-22",
+  "previous_today": {
+    "Global Irradiation (kWh/\u33a1)": 0.0,
+    "Average Temperature(\u00b0C)": 0.0,
+    "Theoretical Yield (kWh)": 0.0,
+    "PV Yield (kWh)": 99.69,
+    "Inverter Yield (kWh)": 99.69,
+    "Export (kWh)": 0.0,
+    "Import (kWh)": 2196.48,
+    "Loss Due to Export Limitation (kWh)": 0.0,
+    "Loss Due to Export Limitation(R.)": 0.0,
+    "Charge (kWh)": 0.0,
+    "Discharge (kWh)": 0.0,
+    "Revenue (R.)": 0.0,
+    "Consumption (kWh)": 2296.17,
+    "Self-consumption (kWh)": 99.69,
+    "Self-consumption Rate (%)": 100.0
+  },
+  "previous_today_date": "2026-07-23"
 }
