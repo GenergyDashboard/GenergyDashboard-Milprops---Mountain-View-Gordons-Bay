@@ -18135,12 +18135,12 @@
     }
   },
   "2026-07-25": {
-    "current_hour": 11,
-    "pv": 556.8,
-    "import": 1734.65,
-    "export": 0.0,
-    "self_consumption": 556.8,
-    "consumption": 2291.45,
+    "current_hour": 14,
+    "pv": 1308.78,
+    "import": 1877.76,
+    "export": 0.4,
+    "self_consumption": 1308.38,
+    "consumption": 3186.14,
     "hourly": {
       "pv": [
         0.0,
@@ -18155,9 +18155,9 @@
         108.03,
         182.98,
         235.97,
-        0.0,
-        0.0,
-        0.0,
+        258.64,
+        258.13,
+        235.21,
         0.0,
         0.0,
         0.0,
@@ -18181,9 +18181,9 @@
         275.19,
         293.58,
         293.05,
-        0.0,
-        0.0,
-        0.0,
+        295.36,
+        299.35,
+        299.98,
         0.0,
         0.0,
         0.0,
@@ -18207,9 +18207,9 @@
         167.16,
         110.6,
         57.08,
-        0.0,
-        0.0,
-        0.0,
+        37.12,
+        41.22,
+        64.77,
         0.0,
         0.0,
         0.0,
@@ -18233,7 +18233,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        0.4,
         0.0,
         0.0,
         0.0,
@@ -18267,28 +18267,28 @@
         "export_savings": 0.0
       },
       "off_peak": {
-        "generation": 0.0,
-        "import": 957.95,
-        "self_consumption": 0,
-        "export": 0.0,
-        "utility_cost": 1215.73,
-        "pv_savings": 0.0,
+        "generation": 751.98,
+        "import": 1101.06,
+        "self_consumption": 751.58,
+        "export": 0.4,
+        "utility_cost": 1397.36,
+        "pv_savings": 953.83,
         "export_savings": 0.0
       }
     },
     "savings": {
       "pv_savings": {
         "peak": 0.0,
-        "standard": 374.82,
-        "off_peak": 456.75,
-        "total": 831.57
+        "standard": 880.77,
+        "off_peak": 1073.27,
+        "total": 1954.04
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 831.57
+      "total": 1954.04
     }
   }
 }
