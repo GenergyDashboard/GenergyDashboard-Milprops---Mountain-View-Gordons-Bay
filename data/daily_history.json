@@ -18920,12 +18920,12 @@
     }
   },
   "2026-07-30": {
-    "current_hour": 11,
-    "pv": 555.17,
-    "import": 1650.69,
-    "export": 0.8,
-    "self_consumption": 554.37,
-    "consumption": 2205.06,
+    "current_hour": 13,
+    "pv": 1085.08,
+    "import": 1694.72,
+    "export": 2.8,
+    "self_consumption": 1082.28,
+    "consumption": 2777.0,
     "hourly": {
       "pv": [
         0.0,
@@ -18940,8 +18940,8 @@
         97.13,
         179.89,
         241.34,
-        0.0,
-        0.0,
+        265.84,
+        264.07,
         0.0,
         0.0,
         0.0,
@@ -18966,8 +18966,8 @@
         264.81,
         261.3,
         277.92,
-        0.0,
-        0.0,
+        288.85,
+        283.09,
         0.0,
         0.0,
         0.0,
@@ -18992,8 +18992,8 @@
         167.68,
         81.41,
         37.38,
-        0.0,
-        0.0,
+        23.81,
+        20.22,
         0.0,
         0.0,
         0.0,
@@ -19018,8 +19018,8 @@
         0.0,
         0.0,
         0.8,
-        0.0,
-        0.0,
+        0.8,
+        1.2,
         0.0,
         0.0,
         0.0,
@@ -19043,12 +19043,12 @@
         "export_savings": 0.0
       },
       "standard": {
-        "generation": 553.98,
-        "import": 513.79,
-        "self_consumption": 553.18,
-        "export": 0.8,
-        "utility_cost": 978.05,
-        "pv_savings": 1053.03,
+        "generation": 1083.89,
+        "import": 557.82,
+        "self_consumption": 1081.09,
+        "export": 2.8,
+        "utility_cost": 1061.87,
+        "pv_savings": 2057.96,
         "export_savings": 0.0
       },
       "off_peak": {
@@ -19063,17 +19063,17 @@
     },
     "savings": {
       "pv_savings": {
-        "peak": 24.62,
-        "standard": 1049.14,
+        "peak": 48.07,
+        "standard": 2048.21,
         "off_peak": 0.0,
-        "total": 1073.77
+        "total": 2096.28
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 1073.77
+      "total": 2096.28
     }
   }
 }
