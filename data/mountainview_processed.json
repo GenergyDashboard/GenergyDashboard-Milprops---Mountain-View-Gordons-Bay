@@ -1,6 +1,6 @@
 {
   "plant": "Mountain View Shopping Centre (Gordons Bay)",
-  "last_updated": "2026-08-08 20:43",
+  "last_updated": "2026-08-08 21:34",
   "yesterday": {
     "date": "2026-08-07",
     "data": {
@@ -30,13 +30,13 @@
       "PV Yield (kWh)": 555.53,
       "Inverter Yield (kWh)": 555.53,
       "Export (kWh)": 0.0,
-      "Import (kWh)": 3738.62,
+      "Import (kWh)": 3904.0,
       "Loss Due to Export Limitation (kWh)": 0.0,
       "Loss Due to Export Limitation(R.)": 0.0,
       "Charge (kWh)": 0.0,
       "Discharge (kWh)": 0.0,
       "Revenue (R.)": 0.0,
-      "Consumption (kWh)": 4294.15,
+      "Consumption (kWh)": 4459.53,
       "Self-consumption (kWh)": 555.53,
       "Self-consumption Rate (%)": 100.0
     }
@@ -47,8 +47,8 @@
       "PV Yield (kWh)": 9446.94,
       "Inverter Yield (kWh)": 9446.94,
       "Export (kWh)": 28.8,
-      "Import (kWh)": 25776.63,
-      "Consumption (kWh)": 35194.77,
+      "Import (kWh)": 25942.01,
+      "Consumption (kWh)": 35360.15,
       "Self-consumption (kWh)": 9418.14,
       "CO\u2082 Avoided (t)": 0.0,
       "Standard Coal Saved (t)": 0.0,
@@ -589,8 +589,8 @@
       "PV Yield (kWh)": 9446.94,
       "Inverter Yield (kWh)": 9446.94,
       "Export (kWh)": 28.8,
-      "Import (kWh)": 25776.63,
-      "Consumption (kWh)": 35194.77,
+      "Import (kWh)": 25942.01,
+      "Consumption (kWh)": 35360.15,
       "Self-consumption (kWh)": 9418.14,
       "CO\u2082 Avoided (t)": 0.0,
       "Standard Coal Saved (t)": 0.0,
@@ -645,8 +645,8 @@
       "PV Yield (kWh)": 389261.96,
       "Inverter Yield (kWh)": 389261.96,
       "Export (kWh)": 8530.0,
-      "Import (kWh)": 717285.06,
-      "Consumption (kWh)": 1098017.02,
+      "Import (kWh)": 717450.44,
+      "Consumption (kWh)": 1098182.4,
       "Self-consumption (kWh)": 380731.96,
       "CO\u2082 Avoided (t)": 0.0,
       "Standard Coal Saved (t)": 0.0,
@@ -664,8 +664,8 @@
     "PV Yield (kWh)": 1647474.41,
     "Inverter Yield (kWh)": 1647474.41,
     "Export (kWh)": 56589.6,
-    "Import (kWh)": 2779438.02,
-    "Consumption (kWh)": 4370322.83,
+    "Import (kWh)": 2779603.4,
+    "Consumption (kWh)": 4370488.21,
     "Self-consumption (kWh)": 1590884.81,
     "CO\u2082 Avoided (t)": 0.0,
     "Standard Coal Saved (t)": 0.0,
@@ -723,7 +723,7 @@
     }
   },
   "hourly": {
-    "current_hour": 19,
+    "current_hour": 20,
     "pv": [
       0.0,
       0.0,
@@ -771,7 +771,7 @@
       243.9,
       221.0,
       202.49,
-      0.0,
+      165.38,
       0.0,
       0.0,
       0.0
@@ -797,7 +797,7 @@
       237.82,
       220.93,
       202.49,
-      0.0,
+      165.38,
       0.0,
       0.0,
       0.0
@@ -849,7 +849,7 @@
       216.68,
       202.92,
       180.86,
-      121.28,
+      141.95,
       99.42,
       25.54,
       0.0
@@ -875,7 +875,7 @@
       195.1,
       202.75,
       180.86,
-      121.28,
+      141.95,
       99.42,
       25.54,
       0.0
